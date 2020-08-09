@@ -2,7 +2,7 @@
 
 baseURL = "https://s3.us-east-1.amazonaws.com/datresume.com/"
 languageCode = "en"
-title = "Dattt Hoang"
+title = "Dat Hoang"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
@@ -12,7 +12,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 [params]
-    author = "Dat Hoang"
+    author = "Dat foang"
     description = "Dat Hoang's Resume"
 
 
