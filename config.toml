@@ -1,0 +1,279 @@
+# Page settings
+
+baseURL = "https://s3.us-east-1.amazonaws.com/datresume.com/"
+languageCode = "en"
+title = "Dat Hoang"
+theme = "hugo-devresume-theme"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+
+
+
+
+
+[params]
+    author = "Dat Hoang"
+    description = "Dat Hoang's Resume"
+
+
+    primaryColor = "#0078d4"
+    textPrimaryColor = "#292929"
+    # B9C0C7 dark theme text color
+
+
+
+
+    [params.profile]
+        enable = true
+        name = "Dat Hoang"
+        tagline = "Aspiring Cloud Engineer"
+        avatar = "avatar.png"
+
+
+
+
+
+
+
+    [params.contact]
+        enable = true
+        location = "Texas"
+
+        #[[params.contact.list]]
+        #icon = "fas fa-phone-square"
+        #url = "tel:#"
+        #text = "0123 4567 890"
+        [[params.contact.list]]
+        icon = "fas fa-envelope"
+        url = "mailto:dat@datresume.com"
+        text = "dat@datresume.com"
+        [[params.contact.list]]
+        icon = "fab fa-linkedin"
+        url = "https://www.linkedin.com/in/hoang-dat"
+        text = "linkedin.com/in/hoang-dat"
+        #[[params.contact.list]]
+        #icon = "fas fa-globe"
+        #url = "#"
+        #text = "www.yourwebsite.com"
+
+
+
+
+
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "AWS"
+        [[params.skills.list.items]]
+        details = "EC2, Lambda, IAM, CloudFront, Route53, S3, DynamoDB, RDS"
+
+
+        [[params.skills.list]]
+        title = "CI/CD & Automation"
+        [[params.skills.list.items]]
+        details = "GitHub Actions, CodePipeline"
+
+        [[params.skills.list]]
+        title = "Languages and Tools"
+        [[params.skills.list.items]]
+        details = "Python, Git, Bash, Powershell"
+
+        [[params.skills.list]]
+        title = "Operating Systems"
+        [[params.skills.list.items]]
+        details = "Linux, Windows"
+
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "BS Cloud Computing"
+        university = "Western Governors University"
+        #dates = "2020 - 2021"
+        dates = "Expected Graduation: Jan 2021"
+
+
+
+
+
+
+
+
+    [params.awards]
+        enable = false
+
+        [[params.awards.list]]
+        name = "Award Lorem Ipsum"
+        body = "Microsoft lorem ipsum"
+        date = "2019"
+        [[params.awards.list]]
+        name = "Award Donec Sodales"
+        body = "Oracle Aenean"
+        date = "2017"
+
+
+
+
+
+
+
+
+    [params.languages]
+        enable = false
+
+        [[params.languages.list]]
+        name = "English"
+        level = "Native"
+        [[params.languages.list]]
+        name = "Spanish"
+        level = "Professional"
+
+
+
+
+
+
+
+
+    [params.interests]
+        enable = true
+
+        [[params.interests.list]]
+        name = "Soccer"
+        [[params.interests.list]]
+        name = "International Travel"
+
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "Hey there! I'm an aspiring cloud engineer with 3 years of experience in technical support roles. Currently enrolled in the Cloud Computing degree program at WGU, where I am learning scripting, automation, Linux, virtualization, Python, AWS, and Azure. I am actively learning as much as I can about the cloud and its surrounding topics such as DevOps, security, scalability, and reliability."
+
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "IT Support Specialist"
+        dates = "2019 - 2020"
+        company = "Texas A&M University"
+        details = "Served as the first point of contact for over 62,000 users-representing one of the nation's largest universities-for all IT related issues and service requests through the use of phones, email, and live chat."
+        [[params.experience.list.items]]
+        details = "Provided technical support to callers by researching documentation; troubleshooting hardware, software, guiding client through corrective steps"
+        [[params.experience.list.items]]
+        details = "Collaborated with Tier II help desk peers to resolve complex problems that required escalation"
+        [[params.experience.list.items]]
+        details = "Documented thoroughly all incidents in ServiceNow; assigned incidents to the appropriate teams"
+        [[params.experience.list.items]]
+        details = "Handled 20-35 calls a day, sharpening my professionalism and customer service skills"
+        [[params.experience.list.items]]
+        details = "Directed unresolved issues to the next level of support personnel"
+        [[params.experience.list.items]]
+        details = "Used Bomgar Remote Support Tool for remote desktop troubleshooting"
+        [[params.experience.list.items]]
+        details = "Assisted with password resets after verification of identity"
+
+        [[params.experience.list]]
+        title = "Help Desk Technician"
+        dates = "2014 - 2017"
+        company = "Dubiski Career High School"
+        details = "Provided in-person computer troubleshooting support for over 1400 users."
+        [[params.experience.list.items]]
+        details = "Installed, repaired, maintained, and upgraded Windows laptops"
+        [[params.experience.list.items]]
+        details = "Demonstrated ability to log all notes and follow-up information accurately via online ticketing system"
+        [[params.experience.list.items]]
+        details = "Improved my customer service skills"
+
+
+
+
+
+
+
+
+
+
+
+
+
+    [params.projects]
+        enable = true
+
+        [[params.projects.list]]
+        title = "Cloud Resume"
+        meta = "datresume.com"
+        tagline = "The website you are currently looking at. The frontend is a borrowed template built on Bootstrap, while the backend is developed on AWS, leveraging Python Lambda functions, DynamoDB, SAM templates, API Gateway and S3. I also configured CI/CD using GitHub Actions to update resources on code commit."
+
+
+
+
+
+
+
+
+
+
+
+    [params.information]
+        enable = false
+
+        [[params.information.list]]
+        title = "Papers"
+        [[params.information.list.items]]
+        details = "2018 · Lorem Ipsum"
+        [[params.information.list.items]]
+        details = "2016 · Sed Fringilla"
+
+        [[params.information.list]]
+        title = "Interests"
+        details = "Climbing, Snowboarding, Photography, Travelling"
+
+
+
+
+
+
+
+
+    [params.social]
+        enable = false
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "//github.com/username"
+        title = "username"
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "//linkedin.com/in/username"
+        title = "username"
+        [[params.social.list]]
+        icon = "fab fa-twitter-square"
+        url = "//twitter.com/username"
+        title = "@username"
+
+
+
+
+
+[params.footer]
+    copyright = "| Dat Hoang"
