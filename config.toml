@@ -277,3 +277,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 [params.footer]
     copyright = "| Dat Hoang"
+    
+    
+    
+    
+    [deployment]
+[[deployment.targets]]
+name = "datresume.comDeployment"
+URL = "s3://datresume.com?region=us-east-1"
