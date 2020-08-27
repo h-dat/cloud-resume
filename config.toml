@@ -173,7 +173,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
-        title = "IT Support Specialist"
+        title = "IT Support Technician"
         dates = "2019 - 2020"
         company = "Texas A&M University"
         details = "Served as the first point of contact for over 62,000 users-representing one of the nation's largest universities-for all IT related issues and service requests through the use of phones, email, and live chat."
