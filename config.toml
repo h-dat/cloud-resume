@@ -180,17 +180,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.experience.list.items]]
         details = "Provided technical support to callers by researching documentation; troubleshooting hardware, software, guiding client through corrective steps"
         [[params.experience.list.items]]
+        details = "Handled over 30 calls a day, sharpening my professionalism and customer service skills"
+        [[params.experience.list.items]]
+        details = "Demonstrated communication skills to explain technical information in an easy to understand manner"
+        [[params.experience.list.items]]
         details = "Collaborated with Tier II help desk peers to resolve complex problems that required escalation"
-        [[params.experience.list.items]]
-        details = "Documented thoroughly all incidents in ServiceNow; assigned incidents to the appropriate teams"
-        [[params.experience.list.items]]
-        details = "Handled 20-35 calls a day, sharpening my professionalism and customer service skills"
         [[params.experience.list.items]]
         details = "Directed unresolved issues to the next level of support personnel"
         [[params.experience.list.items]]
-        details = "Used Bomgar Remote Support Tool for remote desktop troubleshooting"
+        details = "Documented thoroughly all incidents in ServiceNow; assigned incidents to the appropriate teams"
         [[params.experience.list.items]]
-        details = "Assisted with password resets after verification of identity"
+        details = "Used BeyondTrust Remote Support Tool for remote desktop troubleshooting"
 
         [[params.experience.list]]
         title = "Help Desk Technician"
@@ -198,11 +198,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Dubiski Career High School"
         details = "Provided in-person computer troubleshooting support for over 1400 users."
         [[params.experience.list.items]]
+        details = "Developed and grew excellent customer service skills"
+        [[params.experience.list.items]]
         details = "Installed, repaired, maintained, and upgraded Windows laptops"
         [[params.experience.list.items]]
-        details = "Demonstrated ability to log all notes and follow-up information accurately via online ticketing system"
-        [[params.experience.list.items]]
-        details = "Improved my customer service skills"
+        details = "Documented all notes and follow-up information accurately via online ticketing system"
 
 
 
