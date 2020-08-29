@@ -160,7 +160,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "Hey there! I'm an aspiring cloud engineer with 3 years of experience in technical support roles. Currently enrolled in the Cloud Computing degree program at WGU, where I am learning scripting, automation, Linux, virtualization, Python, AWS, and Azure. I am actively learning as much as I can about the cloud and its surrounding topics such as DevOps, security, scalability, and reliability."
+        text = "Hey there! I'm an aspiring cloud engineer with 4+ years of experience in technical support roles. Currently enrolled in the Cloud Computing degree program at WGU, where I am learning scripting, automation, Linux, virtualization, Python, AWS, and Azure. I am actively learning as much as I can about the cloud and its surrounding topics such as DevOps, security, scalability, and reliability."
 
 
 
@@ -194,7 +194,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.experience.list]]
         title = "Help Desk Technician"
-        dates = "2014 - 2017"
+        dates = "2013 - 2017"
         company = "Dubiski Career High School"
         details = "Provided in-person computer troubleshooting support for over 1400 users."
         [[params.experience.list.items]]
