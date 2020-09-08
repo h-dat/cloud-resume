@@ -223,7 +223,26 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Cloud Resume"
         meta = "datresume.com"
         tagline = "The website you are currently looking at. The frontend is a borrowed template built on Bootstrap, while the backend is developed on AWS, leveraging Python Lambda functions, DynamoDB, SAM templates, API Gateway and S3. I also configured CI/CD using GitHub Actions to update resources on code commit."
+        [[params.projects.list]]
+        title = "Data Center Virtualization Class Project"
+        tagline = "Tools & Technologies Used: VMWare ESXi, Windows Server 2019, Network Load Balancing (NLB), Active Directory
 
+        Designed, built, and presented a virtualization solution to expand a fictional video game company’s data center in order to meet the needs of the business.
+        The solution includes 1 Windows Server 2019 Standard, 2 Windows Server 2019 Datacenters, and 1 Windows 10 Enterprise machine, all running on VMWare ESXi:
+
+        SRV19 Standard
+        • This virtual machine will be the domain controller.
+
+        DataCenter1 and DataCenter2
+        • The data centers will each have the IIS and remote access roles enabled.
+        • Both machines have been configured to be domain members.
+        • The two public network interfaces on each machine have been teamed and then configured to load balance requests on a cluster via their shared IP address.
+        • A Network Load Balancer was used to balance the data centers for game server performance. Traffic would be split between both data centers, decreasing the burden on both servers by only sending requests to a server that can respond in a timely manner.
+
+        Win10 Enterprise
+        • This virtual machine was used during the proof-of-concept presentation to remotely access a data center from outside of the SysAdmin network, by connecting to the VPN. It is a domain member.
+
+        Firewall rules were enforced via active directory for each VM to allow access to the IIS web servers (HTTP/HTTPS) and the VPN+remote access (PPTP,RDP)."
 
 
 
