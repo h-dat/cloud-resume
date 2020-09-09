@@ -79,7 +79,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Languages and Tools"
         [[params.skills.list.items]]
-        details = "Python, Git, Bash, Powershell"
+        details = "Python, Git, Bash, Powershell, Chef"
 
         [[params.skills.list]]
         title = "Operating Systems"
