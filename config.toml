@@ -112,11 +112,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.awards.list]]
         name = "Award Lorem Ipsum"
         body = "Microsoft lorem ipsum"
-        date = "2019"
+        url = "//google.com"
+        #date = "2019"
         [[params.awards.list]]
         name = "Award Donec Sodales"
         body = "Oracle Aenean"
-        date = "2017"
+        #date = "2017"
 
 
 
