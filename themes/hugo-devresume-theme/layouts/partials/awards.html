@@ -7,7 +7,8 @@
                                     {{ range .Site.Params.awards.list }}
                                     <li class="mb-3">
                                         <div class="font-weight-bold">{{ .name }}</div>
-                                        <div class="text-muted"><a class="resume-link" href="{{ .url | safeURL }}">Verify</a></div>
+                                        <!--<div class="text-muted"><a class="resume-link" href="{{ .url | safeURL }}">Verify</a></div>-->
+                                        <div class="font-weight-bold">{{ .body }}</div>
                                         <div class="text-muted">{{ .date }}</div>
                                     </li>
                                     {{ end }}
