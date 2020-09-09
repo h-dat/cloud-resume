@@ -108,7 +108,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.awards]
-        enable = false
+        enable = true
 
         [[params.awards.list]]
         name = "Award Lorem Ipsum"
@@ -127,7 +127,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.languages]
-        enable = false
+        enable = true
 
         [[params.languages.list]]
         name = "English"
@@ -238,7 +238,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.information]
-        enable = true
+        enable = false
 
         [[params.information.list]]
         title = "Papers"
