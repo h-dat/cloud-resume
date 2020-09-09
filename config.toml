@@ -238,7 +238,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.information]
-        enable = false
+        enable = true
 
         [[params.information.list]]
         title = "Papers"
