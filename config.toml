@@ -110,13 +110,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.awards.list]]
-        name = "Award Lorem Ipsum"
-        #body = "Microsoft lorem ipsum"
-        url = "//google.com"
+        name = "Linux Essentials"
+        body = "Linux Professional Institute"
+        [[params.awards.list]]
+        name = "CompTIA Security+"
+        body = "CompTIA"
+        #url = "//google.com"
         #date = "2019"
         [[params.awards.list]]
-        name = "Award Donec Sodales"
-        url = "//gmail.com"
+        name = "CompTIA Network+"
+        body = "CompTIA"
+        #url = "//gmail.com"
 
 
 
