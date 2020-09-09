@@ -113,12 +113,12 @@ googleAnalytics = "UA-XXXXXXX-Y"
         name = "Linux Essentials"
         body = "Linux Professional Institute"
         [[params.awards.list]]
-        name = "CompTIA Security+"
+        name = "Security+"
         body = "CompTIA"
         #url = "//google.com"
         #date = "2019"
         [[params.awards.list]]
-        name = "CompTIA Network+"
+        name = "Network+"
         body = "CompTIA"
         #url = "//gmail.com"
 
