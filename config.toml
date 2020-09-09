@@ -116,9 +116,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         #date = "2019"
         [[params.awards.list]]
         name = "Award Donec Sodales"
-        #body = "Oracle Aenean"
-        url = "//gmail.com
-        #date = "2017"
+        url = "//gmail.com"
 
 
 
