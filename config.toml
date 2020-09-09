@@ -226,8 +226,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "Data Center Virtualization Class Project"
         tagline = "Tools & Technologies Used: VMWare ESXi, Windows Server 2019, Network Load Balancing (NLB), Active Directory"
-        tagline = "Designed, built, and presented a virtualization solution to expand a fictional video game company’s data center in order to meet the needs of the business.
-        The solution includes a Windows Server 2019 domain controller, two Windows Server 2019 Datacenters configured to load balance requests on a cluster, and a Windows 10 Enterprise machine used during the proof-of-concept presentation to remotely access a data center from outside of the SysAdmin network, by connecting to the VPN. All VMs were running on VMWare ESXi."
+        tagline = "Designed, built, and presented a virtualization solution to expand a fictional video game company’s data center in order to meet the needs of the business. The solution includes a Windows Server 2019 domain controller, two Windows Server 2019 Datacenters configured to load balance requests on a cluster, and a Windows 10 Enterprise machine used during the proof-of-concept presentation to remotely access a data center from outside of the SysAdmin network, by connecting to the VPN. All VMs were running on VMWare ESXi."
 
 
 
