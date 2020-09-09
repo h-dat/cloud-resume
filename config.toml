@@ -97,7 +97,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.education.list]]
         degree = "BS Cloud Computing"
         university = "Western Governors University"
-        #dates = "2020 - 2021"
         dates = "Expected Graduation: December 2020"
 
 
@@ -127,14 +126,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.languages]
-        enable = true
+        enable = false
 
         [[params.languages.list]]
         name = "English"
         level = "Native"
         [[params.languages.list]]
-        name = "Spanish"
-        level = "Professional"
+        name = "Vietnamese"
+        level = "Basic"
 
 
 
