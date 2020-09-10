@@ -229,7 +229,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         tagline = "The website you are currently looking at. The frontend is a borrowed template built on Bootstrap, while the backend is developed on AWS, leveraging Python Lambda functions, DynamoDB, SAM templates, API Gateway and S3. I also configured CI/CD using GitHub Actions to update resources on code commit."
         [[params.projects.list]]
         title = "Data Center Virtualization"
-        url = ""
+        url = " "
         meta = "School Project"
         tagline = "Designed, built, and presented a virtualization solution to expand a fictional video game company’s data center in order to meet the needs of the business. The solution includes a Windows Server 2019 domain controller, two Windows Server 2019 Datacenters configured to load balance requests on a cluster, and a Windows 10 Enterprise machine used during the proof-of-concept presentation to remotely access a data center from outside of the SysAdmin network, by connecting to the VPN. All VMs were running on VMWare ESXi."
 
