@@ -26,7 +26,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.profile]
         enable = true
         name = "Dat Hoang"
-        tagline = "Aspiring Cloud Engineer"
+        tagline = "Aspiring DevOps Engineer"
         avatar = "avatar.png"
 
 
@@ -163,7 +163,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "Hey there! I'm an aspiring cloud engineer with 3+ years of experience in technical support roles. Currently enrolled in the Cloud Computing degree program at WGU, where I am learning scripting, automation, Linux, virtualization, Python, AWS, and Azure. I am actively learning as much as I can about the cloud and its surrounding topics such as DevOps, security, scalability, and reliability."
+        text = "Hey there! I'm an aspiring DevOps engineer with 3+ years of experience in technical support roles. Currently enrolled in the Cloud Computing degree program at WGU, where I am learning scripting, automation, Linux, virtualization, Python, AWS, and Azure. I am actively learning as much as I can about the cloud and its surrounding topics such as DevOps, security, scalability, and reliability."
 
 
 
