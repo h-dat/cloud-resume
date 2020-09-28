@@ -50,7 +50,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.contact.list]]
         icon = "fab fa-linkedin"
         url = "https://www.linkedin.com/in/hoang-dat"
-        text = "linkedin.com/in/hoang-dat"
+        text = "linkedin.com/in/dathoang-"
         #[[params.contact.list]]
         #icon = "fas fa-globe"
         #url = "#"
